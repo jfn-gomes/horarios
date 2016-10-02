@@ -1,0 +1,33 @@
+.bg-warning{
+    background-color:#FFD700; 
+}
+.bg-success{
+    background-color:#7FFF00;
+}
+.bg-danger{
+    background-color:#FF4500;
+}
+
+td{
+    text-align: center;
+}
+
+h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding:0px;
+}
+.alignmiddle{
+    text-align: right;
+}
+
+
+.alignMiddle{
+    float:right;
+    
+}
+.alignRight{
+   text-align: center;
+}
+
+
